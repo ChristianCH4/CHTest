@@ -64,7 +64,7 @@ public class Demo {
         		}
         }
       
-        System.out.println(">>> Et oui, c'est fini !!!");
+        System.out.println(">>> C'est fini !!!");
         YAPI.FreeAPI();
     }
 }
