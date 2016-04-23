@@ -5,7 +5,7 @@ public class Demo {
 
     public static void main(String[] args) {
        
-    	// CONNEXION AU SERVEUR VIRTUALHUB DISTANT
+    	// CONNEXION AU SERVEUR VIRTUALHUB DISTANT ici en version externe
     	try {
             // connexion au serveur VirtualHub distant
             YAPI.RegisterHub("ch4pi1.ddns.net");
